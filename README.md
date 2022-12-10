@@ -18,6 +18,6 @@
 
 
 ### Participantes
-  * Rauan Meirelles - <a href="https://github.com/rauan-meirelles" target="_blank"><img src="https://img.shields.io/badge/GITHUB-Rauan Meirelles-blue" target="_blank"></a> 
-  * Wesley Morais 
+  * Rauan Meirelles </a> 
+  * Wesley Morais - <a href="https://github.com/WesleyVitor" target="_blank"><img src="https://img.shields.io/badge/GITHUB-Wesley Vitor-blue" target="_blank">
  
